@@ -1,0 +1,16 @@
+Content\Orbis.xnb
+Content\Play.xnb
+Content\Quit.xnb
+Content\Settings.xnb
+Content\MenuSelect.xnb
+Content\Chest.xnb
+Content\Feet.xnb
+Content\Head.xnb
+Content\Arm.xnb
+Content\ZombieArm.xnb
+Content\ZombieChest.xnb
+Content\ZombieFeet.xnb
+Content\ZombieHead.xnb
+Content\LaserGun.xnb
+Content\Laser.xnb
+Content\ocra72.xnb

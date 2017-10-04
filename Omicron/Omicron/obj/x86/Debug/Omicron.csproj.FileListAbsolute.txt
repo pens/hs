@@ -1,0 +1,58 @@
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Orbis.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\bin\x86\Debug\Omicron.exe
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\bin\x86\Debug\Omicron.pdb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\obj\x86\Debug\Omicron.exe
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\obj\x86\Debug\Omicron.pdb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\bin\x86\Debug\Content\ocra72.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Play.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Settings.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Quit.xnb
+E:\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Orbis.xnb
+E:\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Play.xnb
+E:\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Quit.xnb
+E:\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Settings.xnb
+E:\Omicron\Omicron\Omicron\bin\x86\Debug\Content\ocra72.xnb
+E:\Omicron\Omicron\Omicron\bin\x86\Debug\Omicron.exe
+E:\Omicron\Omicron\Omicron\bin\x86\Debug\Omicron.pdb
+E:\Omicron\Omicron\Omicron\obj\x86\Debug\Omicron.csprojResolveAssemblyReference.cache
+E:\Omicron\Omicron\Omicron\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Omicron\Omicron\Omicron\obj\x86\Debug\Omicron.exe
+E:\Omicron\Omicron\Omicron\obj\x86\Debug\Omicron.pdb
+E:\Omicron\Omicron\Omicron\bin\x86\Debug\Content\MenuSelect.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\Omicron\bin\x86\Debug\Content\MenuSelect.xnb
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Orbis.xnb
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Play.xnb
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Quit.xnb
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\bin\x86\Debug\Content\Settings.xnb
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\bin\x86\Debug\Content\MenuSelect.xnb
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\bin\x86\Debug\Content\ocra72.xnb
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\bin\x86\Debug\Omicron.exe
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\bin\x86\Debug\Omicron.pdb
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\obj\x86\Debug\Omicron.exe
+C:\Users\Seth\Documents\Omicron\Omicron\Omicron\obj\x86\Debug\Omicron.pdb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Orbis.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Play.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Quit.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Settings.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\MenuSelect.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ocra72.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Omicron.exe
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Omicron.pdb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\obj\x86\Debug\Omicron.exe
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\obj\x86\Debug\Omicron.pdb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Laser.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Chest.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Feet.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Head.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Arm.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ZombieArm.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ZombieChest.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ZombieFeet.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ZombieHead.xnb
+C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\LaserGun.xnb

@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Orbis.png</Source>
+      <Name>Orbis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Orbis.xnb</Output>
+      <Time>2012-06-15T22:19:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Play.png</Source>
+      <Name>Play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Play.xnb</Output>
+      <Time>2012-06-15T22:19:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Quit.png</Source>
+      <Name>Quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Quit.xnb</Output>
+      <Time>2012-06-15T22:19:19-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Settings.png</Source>
+      <Name>Settings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Settings.xnb</Output>
+      <Time>2012-06-15T22:19:20-07:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuSelect.png</Source>
+      <Name>MenuSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\MenuSelect.xnb</Output>
+      <Time>2012-06-15T22:24:18.6236773-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Chest.png</Source>
+      <Name>Chest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Chest.xnb</Output>
+      <Time>2012-07-18T23:30:37.1558545-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Feet.png</Source>
+      <Name>Feet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Feet.xnb</Output>
+      <Time>2012-07-18T23:31:29.9681581-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Head.png</Source>
+      <Name>Head</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Head.xnb</Output>
+      <Time>2012-07-18T23:31:32.0897618-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Arm.png</Source>
+      <Name>Arm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Arm.xnb</Output>
+      <Time>2012-07-18T23:30:28.5134394-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ZombieArm.png</Source>
+      <Name>ZombieArm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ZombieArm.xnb</Output>
+      <Time>2012-07-18T23:31:36.0677688-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ZombieChest.png</Source>
+      <Name>ZombieChest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ZombieChest.xnb</Output>
+      <Time>2012-07-18T23:31:38.3765728-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ZombieFeet.png</Source>
+      <Name>ZombieFeet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ZombieFeet.xnb</Output>
+      <Time>2012-07-18T23:31:39.9989756-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ZombieHead.png</Source>
+      <Name>ZombieHead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ZombieHead.xnb</Output>
+      <Time>2012-07-18T23:31:14.9453319-07:00</Time>
+    </Item>
+    <Item>
+      <Source>LaserGun.png</Source>
+      <Name>LaserGun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\LaserGun.xnb</Output>
+      <Time>2012-07-18T23:31:33.7901648-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Laser.png</Source>
+      <Name>Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\Laser.xnb</Output>
+      <Time>2012-07-18T20:09:11.7051122-07:00</Time>
+    </Item>
+    <Item>
+      <Source>ocra72.spritefont</Source>
+      <Name>ocra72</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\ocra72.xnb</Output>
+      <Time>2012-06-15T22:19:14-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Seth\Documents\Project Omicron\Omicron\OmicronContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Seth\Documents\Project Omicron\Omicron\OmicronContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Seth\Documents\Project Omicron\Omicron\Omicron\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-25T10:48:11.0684624-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,4 @@
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Omicron\Omicron\OmicronContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Omicron\Omicron\OmicronContent\obj\x86\Debug\OmicronContent.contentprojResolveAssemblyReference.cache
+C:\Users\Seth\Documents\Omicron\Omicron\OmicronContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Documents\Project Omicron\Omicron\OmicronContent\obj\x86\Debug\ResolveAssemblyReference.cache

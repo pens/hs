@@ -1,0 +1,20 @@
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Content\ocra.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Nicolas Cagefight.exe
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Nicolas Cagefight.pdb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\obj\x86\Debug\Nicolas Cagefight.exe
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\obj\x86\Debug\Nicolas Cagefight.pdb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Content\arm.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Content\nick.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Content\leg.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Content\stars.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Content\head.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Content\arm2.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Content\leg2.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Content\nick2.xnb
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Nicolas Cagefight.exe.manifest
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\bin\x86\Debug\Nicolas Cagefight.application
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\obj\x86\Debug\Nicolas Cagefight.TrustInfo.xml
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\obj\x86\Debug\Nicolas Cagefight.exe.manifest
+C:\Users\Seth\Documents\Visual Studio 2010\Projects\Nicolas Cagefight\Nicolas Cagefight\Nicolas Cagefight\obj\x86\Debug\Nicolas Cagefight.application

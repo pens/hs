@@ -1,0 +1,9 @@
+Content\ocra.xnb
+Content\arm.xnb
+Content\nick.xnb
+Content\leg.xnb
+Content\stars.xnb
+Content\head.xnb
+Content\arm2.xnb
+Content\leg2.xnb
+Content\nick2.xnb
